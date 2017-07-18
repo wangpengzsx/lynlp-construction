@@ -1,0 +1,2 @@
+# lynlp-construction
+npm install
